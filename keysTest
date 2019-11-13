@@ -6,3 +6,4 @@ aws.credentials
 credentials.key
 hari.pem
 sam.pem
+const AWS_KEY = \"AKIALALEMEL33243OLIAE
