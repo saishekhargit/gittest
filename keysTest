@@ -5,3 +5,4 @@ credentials
 aws.credentials
 credentials.key
 hari.pem
+sam.pem
